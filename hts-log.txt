@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Oct 2023 21:09:23 at https://binbaz.org.sa/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*.mov -*.mpg -*.mpeg -*.avi -*.asf -*.mp3 -*.mp2 -*.rm -*.wav -*.vob -*.qt -*.vid -*.ac3 -*.wma -*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://binbaz.org.sa/ -O1 "E:\Commander K\binbaz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*.mov -*.mpg -*.mpeg -*.avi -*.asf -*.mp3 -*.mp2 -*.rm -*.wav -*.vob -*.qt -*.vid -*.ac3 -*.wma -*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:32:02	Warning: 	File not parsed, looks like binary: https://binbaz.org.sa/fonts/binbaz-icons.eot?uukua5
+21:32:02	Warning: 	File not parsed, looks like binary: https://binbaz.org.sa/fonts/droid-arabic-naskh/regular/DroidNaskh-Regular.eot?
+21:32:02	Warning: 	File not parsed, looks like binary: https://binbaz.org.sa/fonts/droid-arabic-naskh/bold/DroidNaskh-Bold.eot?
+21:32:02	Warning: 	File not parsed, looks like binary: https://binbaz.org.sa/fonts/noto-kufi-arabic/regular/NotoKufiArabic.eot?
+21:32:03	Warning: 	File not parsed, looks like binary: https://binbaz.org.sa/fonts/noto-kufi-arabic/bold/NotoKufiArabic-Bold.eot?
+21:38:25	Warning: 	Link https://binbaz.org.sa/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+23:27:00	Error: 	"Not Found" (404) at link https://binbaz.org.sa/fatwas/4913/حكم-دخول-الحمام-بالحلي-التي-كتب-عليها-اسم-الله  (from https://binbaz.org.sa/categories/fiqhi/12?page=2)
+23:33:57	Error: 	"Not Found" (404) at link https://binbaz.org.sa/audios/series/39/المجموعة-الرمضانية (from https://binbaz.org.sa/audios/788/فضل-صلاة-التروايح)
+02:08:28	Error: 	"Not Found" (404) at link https://binbaz.org.sa/index.php/fatwas/4913/حكم-دخول-الحمام-بالحلي-التي-كتب-عليها-اسم-الله  (from https://binbaz.org.sa/index.php/categories/fiqhi/12?page=2)
+02:15:18	Error: 	"Not Found" (404) at link https://binbaz.org.sa/index.php/audios/series/39/المجموعة-الرمضانية (from https://binbaz.org.sa/index.php/audios/788/فضل-صلاة-التروايح)
+02:57:00	Error: 	"Not Found" (404) at link https://binbaz.org.sa/audios/3775/باب-صفة-الجنة-والنار (from https://binbaz.org.sa/categories/objective/202/audio?page=78)
+03:36:36	Error: 	"Not Found" (404) at link https://binbaz.org.sa/index.php/audios/3775/باب-صفة-الجنة-والنار (from https://binbaz.org.sa/index.php/categories/objective/202/audio?page=78)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 hours 42 minutes 7 seconds : 74757 links scanned, 74750 files written (7633611697 bytes overall) [1144814380 bytes received at 41288 bytes/sec], 7623366627 bytes transferred using HTTP compression in 74471 files, ratio 13%, 173.1 requests per connection
+(6 errors, 6 warnings, 0 messages)
